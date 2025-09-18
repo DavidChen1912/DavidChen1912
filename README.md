@@ -9,9 +9,9 @@ I aspire to combine technical expertise and business insight to grow as an inter
 ## 🔬 Experience & Projects
 
 ### 💼 Internship Experience
-- **Taishin Bank** – LLM-based Fraud Detection Project  
-- **E.SUN Bank** – Computer Vision-based Project  
-- **i-TRUE @Cosme** – Data Science Project  
+- **Taishin International Bank** – LLM-based Fraud Detection Project  
+- **E.SUN Commercial Bank** – Visual Question Answering Project  
+- **i-TRUE @Cosme** – User Conversion Optimization Project    
 
 ### 📖 Research / Publication
 - **scGHSOM** – *Accepted in IEEE TCBB (Co-author)*  
