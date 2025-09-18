@@ -11,14 +11,13 @@ I aspire to combine technical expertise and business insight to grow as an inter
 ### 💼 Internship Experience
 - **Taishin International Bank** – LLM-based Fraud Detection Project  
 - **E.SUN Commercial Bank** – Visual Question Answering Project  
-- **i-TRUE @Cosme** – User Conversion Optimization Project    
+- **i-TRUE @Cosme** – User Conversion Optimization Project  
 
 ### 📖 Research / Publication
-- **scGHSOM** – *Accepted in IEEE TCBB (Co-author)*  
+- **scGHSOM** – Accepted in IEEE TCBB (Co-author)  
 
 ### 🚀 Side Projects / Coursework
-- **Customer Churn Prediction** (Side Project)  
-- **112 Data Science**  
-- **114 Data Structure**  
-- **114 Bioinformatics**  
-
+- Customer Churn Prediction (Side Project)  
+- 112 Data Science  
+- 114 Data Structure  
+- 114 Bioinformatics 
