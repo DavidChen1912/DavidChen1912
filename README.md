@@ -1,8 +1,8 @@
 # Hi there 👋
 
-I'm **Jing-Wei (David) Chen**, a senior at National Chengchi University majoring in Business Administration.  
-My interests lie in **Artificial Intelligence and Data Science applications in the biomedical domain**, especially in **AI-driven drug discovery**.  
-I aspire to bridge **AI technology with business strategy**, turning research into impactful products, and becoming an interdisciplinary talent with both technical expertise and business acumen.  
+I'm **Jing-Wei (David) Chen**, a senior majoring in Business Administration at National Chengchi University.  
+My focus is on **AI and Data Science in biomedicine**, particularly **AI-driven drug discovery**.  
+I aspire to combine **technical expertise and business insight** to grow as an **interdisciplinary professional** with both **technical depth and strategic vision**.  
 
 ---
 
