@@ -17,7 +17,8 @@ I aspire to combine technical expertise and business insight to grow as an inter
 - **scGHSOM** – Accepted in IEEE TCBB (Co-author)  
 
 ### 🚀 Side Projects / Coursework
-- Customer Churn Prediction (Side Project)  
+- Customer Churn Prediction (Side Project)
+- LeetCode (Algorithms & Data Structures practice)
 - 112 Data Science  
 - 114 Data Structure  
 - 114 Bioinformatics 
