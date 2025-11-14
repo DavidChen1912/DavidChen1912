@@ -14,7 +14,8 @@ I aspire to combine technical expertise and business insight to grow as an inter
 - **i-TRUE @Cosme (DS Intern)** – User Conversion Optimization Project  
 
 ### 📖 Research / Publication
-- **scGHSOM** – Accepted in IEEE TCBB (Co-author)  
+- **scGHSOM** – Accepted in IEEE TCBB (Co-author)
+- **scGHSOM Web Server** – Submitted to NAR Web Server Issue
 
 ### 🚀 Side Projects / Coursework
 - Customer Churn Prediction (Side Project)
