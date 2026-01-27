@@ -8,6 +8,9 @@ I aspire to combine technical expertise and business insight to grow as an inter
 
 ## 🔬 Experience & Projects
 
+### 💼 Working Experience
+- **Academia Sinica - Institute of Biomedical Sciences (Research Assistant)** 
+  
 ### 💼 Internship Experience
 - **Taishin International Bank (AI Intern)** – LLM-based Fraud Detection Project  
 - **E.SUN Commercial Bank (AI Intern)** – Visual Question Answering Project  
