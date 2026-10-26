@@ -14,13 +14,11 @@ I build machine learning methods and practical tools for biological data analysi
 
 ## 🔬 Research & Selected Projects
 
-**scGHFlow · Longitudinal Single-Cell Analysis**  
+**scGHFlow · Longitudinal Single-Cell Analysis**                                                                                            *Academia Sinica · 2026–Present*
 Developing a hierarchy-aware optimal transport approach with **Sinkhorn optimization** to model cell-state transitions across time. Applying the method to longitudinal **CAR-T treatment** data to investigate metabolic trajectories and potential response-associated turning points.  
-*Academia Sinica · 2026–Present*
 
-**scGHSOM · Single-Cell Clustering & Visualization**  
+**scGHSOM · Single-Cell Clustering & Visualization**                                                                     *NCCU Bioinformatics Data Science Lab · 2024–2026* 
 Contributed to a hierarchical clustering framework, from algorithm development and benchmarking to visualization. Benchmarked against **10 clustering algorithms**; results published in **IEEE/ACM TCBB (2025)**. Also developed and deployed a **Flask-based analysis web server on Google Cloud**.  
-*NCCU Bioinformatics Data Science Lab · 2024–2026*
 
 ## 💼 Industry Experience
 
